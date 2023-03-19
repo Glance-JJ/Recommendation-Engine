@@ -1,5 +1,5 @@
 For Python implementation:
-1. Please open "AnjanaTihaMachineLearningProjectvFinal.ipynb" file in python notebook(Anaconda contains most libraries)
+1. Please open "PythonBasedImplementation.ipynb" file in python notebook(Anaconda contains most libraries)
 2. Provide "movie_titles.txt" and "ratings.txt" file location in each file read function for moie_titles and ratings.
 3. Run all cells in the file.
 4. After running, user id and recommendation size K will be asked. 
